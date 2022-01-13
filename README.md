@@ -1,1 +1,2 @@
-# gradient_descent_from_scratch
+# Gradient Descent
+Implementation of gradient descent
